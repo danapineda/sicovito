@@ -13,7 +13,7 @@ class DevelopmentConfig(Config):
     MAIL_SERVER = 'smtp.googlemail.com'
     MAIL_PORT = 587
     MAIL_USE_TLS = True
-    MAIL_USERNAME = '20213tn113@utez.edu.mx'
+    MAIL_USERNAME = '20213tn130@utez.edu.mx'
     MAIL_PASSWORD = config('MAIL_PASSWORD')
     
 config = {
